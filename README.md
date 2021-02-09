@@ -1,3 +1,5 @@
+![alt text](https://github.com/stevepaks/TraceLogFilter/blob/master/traceLog.jpg)
+
 
 # trace targets
 - service API
